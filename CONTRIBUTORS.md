@@ -4,6 +4,8 @@
     - Add Debian build instructions in the documentation.
 - [felixonmars](https://github.com/felixonmars)
     - Fix incorrect systemd service path in the documentation.
+- [ffftwo](https://github.com/ffftwo)
+    - Throw an exception when `run_type` is wrong.
 - [GreaterFire](https://github.com/GreaterFire)
     - Author of this project.
 - [JonathanHouten](https://github.com/JonathanHouten)
@@ -12,8 +14,6 @@
     - Fix an ambiguity in the documentation.
 - [klzgrad](https://github.com/klzgrad)
     - Add Linux smoke test.
-- UzminTid
-    - Fix type error in MinGW.
 - [WeidiDeng](https://github.com/WeidiDeng)
     - Fix incorrect Debian dependency in the documentation.
 - [wongsyrone](https://github.com/wongsyrone)
